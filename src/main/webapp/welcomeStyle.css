@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body{
+	background-image:url("background.jpg");
+	background-size:cover; 
+}
+
+#main-box{
+	display:inline-block;
+	
+	background:#122e32;
+	position:relative;
+	left: 30%;
+	top:30vh;
+	width:40%;
+	height:50vh;
+	text-align: center;
+	justify-content: center;
+	
+}
+li{
+	list-style-type: none;
+	padding:1em;
+}
+
+h2{
+	color:white;
+	font-size:2em;
+	
+}
+
+a{ 
+	color:blue;
+	font-size:1.5rem;
+	text-decoration: none;
+	
+	
+}
